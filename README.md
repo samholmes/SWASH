@@ -95,3 +95,11 @@ SS2URI implementation may include defaults for certain level values in a swash, 
 ```
 http://domain.tld/
 ```
+
+## Conclusion
+
+The goal for SWASH is to create a general encoding syntax for web addresses that is minimal and flexible for future iterations of web technology.
+The design goals are to be humanized while fully capable.
+
+This specification is currently in a working draft stage. 
+All comments and feedback are appreciated and help to move the specification forward and towards a finalized standard.
